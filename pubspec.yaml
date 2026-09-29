@@ -1,0 +1,14 @@
+name: parivartan_setu
+description: From Informal Collection to Formal Recycling
+publish_to: none
+version: 0.1.0
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.0.7
+  http: ^1.2.0
+  connectivity_plus: ^6.0.0
+flutter:
+  uses-material-design: true
